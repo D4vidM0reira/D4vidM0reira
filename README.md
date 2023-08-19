@@ -1,4 +1,6 @@
 # Olá eu sou o David Moreira 
+## Aprofundando meus conhecimentos na área de desenvolvimento Front-End
+## Certificações
 <div>
   <a href="https://github.com/D4vidM0reira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4vidM0reira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
